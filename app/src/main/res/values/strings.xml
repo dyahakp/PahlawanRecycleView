@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyRecycleView</string>
+    <string name="heroes_name">heroes_name</string>
+    <string name="detail">detail</string>
+</resources>
